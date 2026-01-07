@@ -137,7 +137,6 @@ Go back to QUEUE_TEST to get the result
 
 ![img_3.png](img_3.png)
 
-
-## 📝 License
-
-MIT License
+Support me
+https://buymeacoffee.com/doandung2701
+![bmc_qr.png](bmc_qr.png)
